@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyPenman
 - 👀 I’m interested in becoming a full time data analyst & programmer, making the transition from accounting & finance
-- 🌱 I’m currently learning Harvards CS50 & intend to complete Python & IBM data analytics after!
+- 🌱 I’m currently learning SQL skills & intend to complete Python & IBM data analytics to complement!
 - 💞️ I’m looking to collaborate on anything a beginner can improve his knowledge base on. 
 
 
